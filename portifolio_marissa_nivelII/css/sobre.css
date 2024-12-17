@@ -1,0 +1,16 @@
+.sobre{
+    position: relative;
+    padding: 100px;
+    background: white;
+}
+.sobre h2{
+    font-size: 3.5em;
+    color: #2B452B;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.sobre p{
+   color: #2B452B;
+   font-size: 1em; 
+   text-align: center;
+}
